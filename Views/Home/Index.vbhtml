@@ -3,29 +3,30 @@
 End Code
 
 <div class="jumbotron">
-    <h1>ASP.NET</h1>
-    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+    <h1>SWD Application MIS 4200</h1>
+    <p class="lead">This is an application for MIS 4200.</p>
+    
 </div>
 
 <div class="row">
     <div class="col-md-4">
-        <h2>Getting started</h2>
+        <h2>Hire Me!</h2>
         <p>
-            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and gives you full control over markup
-            for enjoyable, agile development.
+            I am an extremely hardworking individual that puts 100% into all that I do. I am fast learning and great with people. View the "contact" 
+            page to find my phone number and my email. Hope to get in touch soon!
         </p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+        <p><a class="btn btn-default" href="https://www.linkedin.com/in/jordon-kiger?trk=people-guest_people_search-card">LinkedIn Profile &raquo;</a></p>
     </div>
     <div class="col-md-4">
-        <h2>Get more libraries</h2>
-        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+        <h2>Involvement On Campus</h2>
+        <p>I am currently on the Sailing Team which is super fun and I would reccomend anyone to join. I am also a Senator At-Large and the Public
+        Relations Director for Student Senate.</p>
+        <p><a class="btn btn-default" href="https://www.ohiostudentsenate.com/">Student Senate Website &raquo;</a></p>
     </div>
     <div class="col-md-4">
-        <h2>Web Hosting</h2>
-        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+        <h2>Fun Facts</h2>
+        <p>A couple fun facts about myself is that I used to live in Florida where I was in a tropical storm which was a unique experience.
+        I am also terrified of horses.</p>
+        <p><a class="btn btn-default" href="http://www.floridahurricane.net/2009-hurricane-season.html">Tropical Storm Fay &raquo;</a></p>
     </div>
 </div>
