@@ -1,18 +1,17 @@
 ﻿@Code
-    ViewData("Title") = "Contact"
+    ViewData("Title") = "Contact me"
 End Code
 
 <h2>@ViewData("Title").</h2>
 <h3>@ViewData("Message")</h3>
 
-<address>
-    One Microsoft Way<br />
+<address> Jordon Kiger<br />
+    Copeland 012<br />
     Redmond, WA 98052-6399<br />
     <abbr title="Phone">P:</abbr>
-    425.555.0100
+    800.588.2300 
 </address>
 
 <address>
-    <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+    <strong>Support:</strong>   <a href="mailto:jk582215@ohio.edu">jk582215@ohio.edu</a><br />
 </address>
